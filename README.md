@@ -4,7 +4,10 @@
   
 
 ## Description
-This program allows you to create a README based off of answers to inputs that you put in. No longer will you need to create the README yourself, but with just a few questions answers, one is already created for you, with it setup to show the different sections in a classic format.
+AS A business owner
+I WANT to be able to view and manage the departments, roles, and employees in my company
+SO THAT I can organize and plan my business
+
 ## Table of Contents
 + [Installation](#installation)
 + [Usage](#usage)
